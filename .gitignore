@@ -1,0 +1,8 @@
+*.user
+CMakeLists.txt.user.43d3e06
+swmainclass.cpp
+swmainclass.ui
+swmainclass.h
+CMakeLists.txt
+appIcon.rc
+
